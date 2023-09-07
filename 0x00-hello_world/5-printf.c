@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints "with proper grammar, but the outcome is 
+ * main - A program that prints a line using the printf function 
  * Return: Always 0.
  *
  */
